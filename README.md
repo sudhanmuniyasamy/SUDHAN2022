@@ -18,9 +18,6 @@
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
   </a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+intelligent+systems+with+AI+%26+Data+Science;Turning+data+into+actionable+insights" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -177,29 +174,6 @@ Intelligent traffic management system
 </td>
 </tr>
 </table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudhanmuniyasamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanmuniyasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanmuniyasamy&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanmuniyasamy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="100%" />
-
-</div>
 
 ---
 
